@@ -4,9 +4,7 @@ import {NgOptimizedImage} from '@angular/common';
 
 @Component({
   selector: 'app-housing-location',
-  imports: [
-    NgOptimizedImage
-  ],
+  imports: [],
   template: `
     <section class="listing">
       <img
